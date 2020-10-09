@@ -14,6 +14,7 @@
     * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
   * glmnet
     * [variable importance out of glmnet isn't so straightforward](https://think-lab.github.io/d/205/#3)
+    * [glmnetUtils does cv on alpha and lambda](https://cran.r-project.org/web/packages/glmnetUtils/vignettes/intro.html)
   * XGBoost
     * [Partial Dependence](https://bgreenwell.github.io/pdp/articles/pdp-example-xgboost.html)
     * [hyperparameter tuning](https://www.hackerearth.com/blog/developers/beginners-tutorial-on-xgboost-parameter-tuning-r/)
