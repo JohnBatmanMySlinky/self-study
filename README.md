@@ -18,4 +18,5 @@
     * [Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/vignettes/intro.html)
     * [caret::train doesn't work with an xgboost offset](https://github.com/topepo/caret/issues/861)
     * [Tidymodels also doesn't support poisson xgboost](https://stackoverflow.com/questions/62992162/configuring-xgboost-poisson-regression-with-offset-in-parsnip)
+ * [Recipes for modeling in R](https://www.tmwr.org/recipes.html)
   
