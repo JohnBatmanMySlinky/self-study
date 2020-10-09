@@ -4,9 +4,9 @@
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Books
-  * ISLR
-  * ESL
-  * Generalized Additive Models: An Introduction with R. Simon Wood.
+  * [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+  * [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
+  * [Generalized Additive Models: An Introduction with R. Simon Wood.](https://reseau-mexico.fr/sites/reseau-mexico.fr/files/igam.pdf)
 
 ## Misc modeling topics
   * GLM
