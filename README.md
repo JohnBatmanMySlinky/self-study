@@ -1,14 +1,14 @@
 # self-study
 
-# Courses
+## Courses
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-# Books
+## Books
   * ISLR
   * ESL
   * Generalized Additive Models: An Introduction with R. Simon Wood.
 
-# Misc modeling topics
+## Misc modeling topics
   * GLM
    * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
   * glmnet
