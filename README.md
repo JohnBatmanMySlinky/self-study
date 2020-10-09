@@ -10,7 +10,7 @@
 
 ## Misc modeling topics
   * GLM
-   * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
+    * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
   * glmnet
     * [variable importance out of glmnet isn't so straightforward](https://think-lab.github.io/d/205/#3)
   * XGBoost
