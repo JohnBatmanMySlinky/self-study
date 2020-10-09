@@ -15,6 +15,7 @@
     * [variable importance out of glmnet isn't so straightforward](https://think-lab.github.io/d/205/#3)
   * XGBoost
     * [Partial Dependence](https://bgreenwell.github.io/pdp/articles/pdp-example-xgboost.html)
+    * [hyperparameter tuning](https://www.hackerearth.com/blog/developers/beginners-tutorial-on-xgboost-parameter-tuning-r/)
     * [Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/vignettes/intro.html)
     * [caret::train doesn't work with an xgboost offset](https://github.com/topepo/caret/issues/861)
     * [Tidymodels also doesn't support poisson xgboost](https://stackoverflow.com/questions/62992162/configuring-xgboost-poisson-regression-with-offset-in-parsnip)
