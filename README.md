@@ -9,6 +9,10 @@
   * [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
   * [Generalized Additive Models: An Introduction with R. Simon Wood.](https://reseau-mexico.fr/sites/reseau-mexico.fr/files/igam.pdf)
 
+## R packages to learn about
+  * gt
+    [presentation ready table in R](https://gt.rstudio.com/)
+
 ## Misc modeling topics
   * GLM
     * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
