@@ -1,5 +1,9 @@
 # self-study
 
+## Good articles
+* [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
+* [GA2M](https://blog.fiddler.ai/2019/06/a-gentle-introduction-to-ga2ms-a-white-box-model/)
+
 ## Courses
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   * [MIT: 6.001 Intro to CS & Programming in Python (Fall 2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
