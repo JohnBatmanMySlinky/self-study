@@ -3,6 +3,7 @@
 ## Good articles
 * [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
 * [GA2M](https://blog.fiddler.ai/2019/06/a-gentle-introduction-to-ga2ms-a-white-box-model/)
+* [experience study mathematics](https://www.soa.org/globalassets/assets/files/research/experience-study-calculations.pdf)
 
 ## Courses
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
