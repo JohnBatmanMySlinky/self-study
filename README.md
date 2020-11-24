@@ -6,6 +6,7 @@
 * [SOA experience study mathematics](https://www.soa.org/globalassets/assets/files/research/experience-study-calculations.pdf)
 * [SOA credibility](https://www.soa.org/globalassets/assets/files/resources/tables-calcs-tools/credibility-methods-life-health-pensions.pdf)
 * [SOA mortality & socioeconomics](https://www.soa.org/globalassets/assets/files/resources/research-report/2020/mort-socioeconomic-cat-report.pdf)
+* [geospatial clustering](https://cran.r-project.org/web/packages/ClustGeo/vignettes/intro_ClustGeo.html)
 
 ## Courses
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
