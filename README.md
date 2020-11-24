@@ -3,7 +3,8 @@
 ## Good articles
 * [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
 * [GA2M](https://blog.fiddler.ai/2019/06/a-gentle-introduction-to-ga2ms-a-white-box-model/)
-* [experience study mathematics](https://www.soa.org/globalassets/assets/files/research/experience-study-calculations.pdf)
+* [SOA experience study mathematics](https://www.soa.org/globalassets/assets/files/research/experience-study-calculations.pdf)
+* [SOA credibility](https://www.soa.org/globalassets/assets/files/resources/tables-calcs-tools/credibility-methods-life-health-pensions.pdf)
 * [SOA mortality & socioeconomics](https://www.soa.org/globalassets/assets/files/resources/research-report/2020/mort-socioeconomic-cat-report.pdf)
 
 ## Courses
