@@ -1,5 +1,9 @@
 # self-study
 
+## Programming
+* [The Python Standard Library](https://docs.python.org/3/library/)
+* [Wonderful Little Tidbits](https://www.educative.io/edpresso)
+
 ## Good articles
 * [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
 * [GA2M](https://blog.fiddler.ai/2019/06/a-gentle-introduction-to-ga2ms-a-white-box-model/)
