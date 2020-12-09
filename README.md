@@ -22,6 +22,8 @@
     [presentation ready table in R](https://gt.rstudio.com/)
 
 ## Misc modeling topics
+  * quantile regression
+    * [quantile regression overview (brief)](https://data.library.virginia.edu/getting-started-with-quantile-regression/)
   * GLM
     * [robust standard errors in R](https://data.princeton.edu/wws509/r/robust)
   * glmnet
