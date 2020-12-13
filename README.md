@@ -3,6 +3,7 @@
 ## Programming
 * [The Python Standard Library](https://docs.python.org/3/library/)
 * [Wonderful Little Tidbits](https://www.educative.io/edpresso)
+* [THE ALGORITHMS](https://github.com/TheAlgorithms)
 
 ## Good articles
 * [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
