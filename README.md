@@ -16,7 +16,7 @@
 ## Courses
   * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   * [MIT: 6.001 Intro to CS & Programming in Python (Fall 2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-  * [Stanford Deep Learning](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  * [Stanford CS231n Fall 2016: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ## Math Review
   * [Linear Algebra Review](https://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf)
