@@ -1,9 +1,12 @@
 # self-study
 
 ## Programming
-* [The Python Standard Library](https://docs.python.org/3/library/)
 * [Wonderful Little Tidbits](https://www.educative.io/edpresso)
 * [THE ALGORITHMS](https://github.com/TheAlgorithms)
+    
+## Python Libraries
+  * [NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+  * [The Python Standard Libraries](https://docs.python.org/3/library/)
 
 ## Good articles
 * [Model Interpretability](https://www.nature.com/articles/s42256-019-0048-x)
@@ -27,8 +30,7 @@
   * [Generalized Additive Models: An Introduction with R. Simon Wood.](https://reseau-mexico.fr/sites/reseau-mexico.fr/files/igam.pdf)
 
 ## R packages to learn about
-  * gt
-    [presentation ready table in R](https://gt.rstudio.com/)
+  * [presentation ready table in Rv via gt](https://gt.rstudio.com/)
 
 ## Misc modeling topics
   * quantile regression
