@@ -29,6 +29,7 @@
   * [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
   * [Generalized Additive Models: An Introduction with R. Simon Wood.](https://reseau-mexico.fr/sites/reseau-mexico.fr/files/igam.pdf)
   * [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
+  * [Advanced statistics book recommendations](https://stats.stackexchange.com/questions/33197/advanced-statistics-books-recommendation)
 
 ## R packages to learn about
   * [presentation ready table in Rv via gt](https://gt.rstudio.com/)
